@@ -5,6 +5,7 @@ Este é um sistema desenvolvido sob demanda durante meu período na antiga empre
 ---
 
 ## Veja uma demonstração na prática
+⚠️ Não realizei a abertura do arquivo excel no video por motivos de privacidade dos dados da empresa.
 - Assista a este [Video demonstrativo](https://youtu.be/cdyHAstpvZE)
 
 ## 🧩 Visão Geral do Projeto
