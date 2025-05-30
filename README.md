@@ -4,6 +4,9 @@ Este é um sistema desenvolvido sob demanda durante meu período na antiga empre
 
 ---
 
+## Veja uma demonstração na prática
+- Assista a este [Video demonstrativo](https://youtu.be/cdyHAstpvZE)
+
 ## 🧩 Visão Geral do Projeto
 
 - **Objetivo:** Automatizar a extração de dados rodoviários em tempo real e distribuí-los via planilhas Excel na rede interna da AGERS.
