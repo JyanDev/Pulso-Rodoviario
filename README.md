@@ -1,6 +1,6 @@
-# 📊 Gerador de Relatório de Pulso Rodoviário – Projeto Institucional AGERS
+# 📊 Gerador de Relatório de Pulso Rodoviário – Projeto Institucional AGERGS
 
-Este é um sistema desenvolvido sob demanda durante meu período na antiga empresa de fiscalização de energia (AGERS), com o objetivo de automatizar a coleta e o compartilhamento de informações atualizadas sobre as condições rodoviárias do estado. O programa acessa um site específico com atualizações em tempo real, extrai os dados relevantes e gera um arquivo `.xlsx` (Excel), que é salvo automaticamente em um domínio interno da rede da AGERS, permitindo o acesso contínuo por parte dos servidores públicos do órgão.
+Este é um sistema desenvolvido sob demanda durante meu período na antiga empresa de fiscalização de energia (AGERGS), com o objetivo de automatizar a coleta e o compartilhamento de informações atualizadas sobre as condições rodoviárias do estado. O programa acessa um site específico com atualizações em tempo real, extrai os dados relevantes e gera um arquivo `.xlsx` (Excel), que é salvo automaticamente em um domínio interno da rede da AGERGS, permitindo o acesso contínuo por parte dos servidores públicos do órgão.
 
 ---
 
@@ -10,7 +10,7 @@ Este é um sistema desenvolvido sob demanda durante meu período na antiga empre
 
 ## 🧩 Visão Geral do Projeto
 
-- **Objetivo:** Automatizar a extração de dados rodoviários em tempo real e distribuí-los via planilhas Excel na rede interna da AGERS.
+- **Objetivo:** Automatizar a extração de dados rodoviários em tempo real e distribuí-los via planilhas Excel na rede interna da AGERGS.
 - **Ambiente:** Projetado para rodar exclusivamente dentro do domínio da empresa, em um servidor interno configurado para execução periódica automática.
 - **Funcionamento:**  
   - Acessa uma página da web de status rodoviário.
